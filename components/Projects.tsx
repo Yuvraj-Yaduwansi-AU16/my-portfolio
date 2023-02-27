@@ -26,7 +26,7 @@ function Projects() {
               whileInView={{ opacity: 1, y: 0 }}
               src={project?.image}
               alt=""
-              className="w-[40%]"
+              className="md:w-[40%]"
             />
             <div className="space-y-10 px-0 md:px-10 max-w-6xl">
               <h4 className="text-4xl font-semibold text-center">

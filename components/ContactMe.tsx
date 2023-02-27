@@ -21,8 +21,8 @@ function ContactMe() {
       <h3 className="absolute top-24 uppercase tracking-[20px] text-gray-500 text-2xl">
         Contact Me
       </h3>
-      <div className="flex flex-col space-y-10">
-        <h4 className="text-4xl font-semibold text-center">
+      <div className="flex flex-col space-y-10 mt-20">
+        <h4 className="sm:text-4xl text-lg font-semibold text-center">
           I have got just what you need.
           <span className="underline decoration-[#F7AB0A]/50">Lets Talk.</span>
         </h4>

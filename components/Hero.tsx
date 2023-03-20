@@ -39,8 +39,8 @@ function Hero() {
           <Link href="#skills">
             <button className="heroButton">Skills</button>
           </Link>
-          <Link href="#projects">
-            <button className="heroButton">Projects</button>
+          <Link href="#education">
+            <button className="heroButton">Education</button>
           </Link>
         </div>
       </div>
